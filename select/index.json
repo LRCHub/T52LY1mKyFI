@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Kaerimichiwa Toomawarishitakunaru",
+  "base_artist": "Nogizaka46",
+  "createdAt": "2025-12-01T07:48:50.828737Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kaerimichiwa Toomawarishitakunaru",
+      "artist": "Nogizaka46",
+      "has_synced": true,
+      "path": "select/01_Kaerimichiwa_Toomawarishitakunaru_Nogizaka46.lrc"
+    }
+  ]
+}
